@@ -1,5 +1,7 @@
 import "@/app/ui/global.css";
 import { inter, roboto_mono } from "@/app/ui/fonts";
+export const experimental_ppr = true;
+
 export default function RootLayout({
   children,
 }: {
